@@ -1,6 +1,3 @@
-//Adar Gvili: 316266865
-//Shimon Cohen: 205723018
-
 package boxStacking;
 
 import java.util.ArrayList;
